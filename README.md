@@ -27,15 +27,3 @@
 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,matlab,excel)
-
-
-
-
-
-
-
-
-
-
-
-
